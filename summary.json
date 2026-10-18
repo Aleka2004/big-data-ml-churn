@@ -1,0 +1,9 @@
+{
+  "rows": 80000,
+  "churn_rate": 0.210875,
+  "train_rows": 60000,
+  "test_rows": 20000,
+  "best_model": "Gradient Boosted Trees",
+  "best_auc": 0.7823364503800365,
+  "best_f1": 0.5122568263107389
+}
